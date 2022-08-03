@@ -15,3 +15,21 @@ b {
     padding: 20px;
     border: 1px solid black;
 }
+
+#git-logo {
+    max-width: 200px;
+    max-height: auto;
+}
+
+#github-logo {
+    max-width: 200px;
+    max-height: auto;
+}
+
+#image-container {
+    display: flex;
+    flex-direction:row;
+    justify-content: space-around;
+    
+    
+}
